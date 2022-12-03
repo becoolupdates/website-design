@@ -1,0 +1,110 @@
+ /* nav-bar design */
+nav{
+  background-color: #EFF5F5;
+  color:inherit;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+position: fixed;
+
+}
+ /* title-design-branner */
+#title-name{
+  font-size: 2.0rem;
+  color:#EB6440;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 5rem;
+
+}
+#title-name:hover{
+  color:#FF7000;
+}
+  ul li a:hover{
+  background-color:#FF7000;
+  color:#EFF5F5;
+}
+ /* page-1 designs Css */
+.page-1{
+  background-color: #FFE3E1;
+  padding-top: 5rem;
+}
+.page-1 .row h3{
+  line-height: 2.5rem;
+  letter-spacing:0.10rem;
+  padding: 5rem 5rem 1rem ;
+}
+.page-1 .row p{
+  color:#B2B2B2;
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 5rem ;
+}
+/* button design in page-1 */
+.page-1 .row button{
+  color: #EFF5F5;
+  margin: 4rem 5rem;
+}
+.page-1 .row button:hover{
+  background-color: #FD841F;
+}
+/* selection css propertirs */
+.page-2{
+  background-color: #EFF5F5;
+  padding-top: 2rem;
+}
+.page2-inner{
+  text-align: center;
+  padding-top:1rem ;
+}
+.page2-inner-one{
+  margin: auto ;
+}
+.page2-inner-one i {
+  padding-bottom: 1rem;
+  color:#FD841F;
+}
+.contain-vikas p {
+  color: #8f8f8f;
+  font-family: 'Montserrat', sans-serif;
+}
+.contain-vikas h4{
+  font-family: 'Anek Devanagari', sans-serif;
+}
+ /* page-3 css properteis */
+ .page-3{
+   background-color: #FFE3E1;
+   text-align: center;
+ }
+.page-3 .heading-page3{
+   padding:0.5rem;
+   /* font-family: 'Montserrat-dark'; */
+ }
+ .page-3 .container i{
+   color:#FD841F;
+   padding-bottom: 1.5rem;
+ }
+ .page-3 .container p{
+      font-family: 'Montserrat-dark';
+      font-size:1.2rem;
+      color:#8f8f8f;
+
+ }
+ .page-3 .container h3{
+ font-family: 'Philosopher', sans-serif;
+}
+.boxsize{
+  padding-bottom: 2rem;
+}
+ .box{
+  width: 100%;
+  height: 100%;
+  padding: 5% 0%;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-between; */
+  /* padding-bottom: 2rem; */
+}
+ hr{
+   width: 7%;
+  border: 2px solid ;
+   color:#FD841F;
+ }
